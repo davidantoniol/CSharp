@@ -1,7 +1,0 @@
-C:\Users\adavi\Desktop\DI\operardosvalores\operardosvalores\bin\Debug\operardosvalores.exe.config
-C:\Users\adavi\Desktop\DI\operardosvalores\operardosvalores\bin\Debug\operardosvalores.exe
-C:\Users\adavi\Desktop\DI\operardosvalores\operardosvalores\bin\Debug\operardosvalores.pdb
-C:\Users\adavi\Desktop\DI\operardosvalores\operardosvalores\obj\Debug\operardosvalores.csprojAssemblyReference.cache
-C:\Users\adavi\Desktop\DI\operardosvalores\operardosvalores\obj\Debug\operardosvalores.csproj.CoreCompileInputs.cache
-C:\Users\adavi\Desktop\DI\operardosvalores\operardosvalores\obj\Debug\operardosvalores.exe
-C:\Users\adavi\Desktop\DI\operardosvalores\operardosvalores\obj\Debug\operardosvalores.pdb

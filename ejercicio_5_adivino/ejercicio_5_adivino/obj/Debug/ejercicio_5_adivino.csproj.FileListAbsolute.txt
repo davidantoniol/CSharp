@@ -1,0 +1,7 @@
+C:\Users\adavi\Desktop\DI\ejercicio_5_adivino\ejercicio_5_adivino\obj\Debug\ejercicio_5_adivino.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\DI\ejercicio_5_adivino\ejercicio_5_adivino\bin\Debug\ejercicio_5_adivino.exe.config
+C:\Users\adavi\Desktop\DI\ejercicio_5_adivino\ejercicio_5_adivino\bin\Debug\ejercicio_5_adivino.exe
+C:\Users\adavi\Desktop\DI\ejercicio_5_adivino\ejercicio_5_adivino\bin\Debug\ejercicio_5_adivino.pdb
+C:\Users\adavi\Desktop\DI\ejercicio_5_adivino\ejercicio_5_adivino\obj\Debug\ejercicio_5_adivino.exe
+C:\Users\adavi\Desktop\DI\ejercicio_5_adivino\ejercicio_5_adivino\obj\Debug\ejercicio_5_adivino.pdb
+C:\Users\adavi\Desktop\DI\ejercicio_5_adivino\ejercicio_5_adivino\obj\Debug\ejercicio_5_adivino.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\adavi\source\repos\Ejercicio6_numeros_sietes\Ejercicio6_numeros_sietes\bin\Debug\Ejercicio6_numeros_sietes.exe.config
+C:\Users\adavi\source\repos\Ejercicio6_numeros_sietes\Ejercicio6_numeros_sietes\bin\Debug\Ejercicio6_numeros_sietes.exe
+C:\Users\adavi\source\repos\Ejercicio6_numeros_sietes\Ejercicio6_numeros_sietes\bin\Debug\Ejercicio6_numeros_sietes.pdb
+C:\Users\adavi\source\repos\Ejercicio6_numeros_sietes\Ejercicio6_numeros_sietes\obj\Debug\Ejercicio6_numeros_sietes.csprojAssemblyReference.cache
+C:\Users\adavi\source\repos\Ejercicio6_numeros_sietes\Ejercicio6_numeros_sietes\obj\Debug\Ejercicio6_numeros_sietes.csproj.CoreCompileInputs.cache
+C:\Users\adavi\source\repos\Ejercicio6_numeros_sietes\Ejercicio6_numeros_sietes\obj\Debug\Ejercicio6_numeros_sietes.exe
+C:\Users\adavi\source\repos\Ejercicio6_numeros_sietes\Ejercicio6_numeros_sietes\obj\Debug\Ejercicio6_numeros_sietes.pdb

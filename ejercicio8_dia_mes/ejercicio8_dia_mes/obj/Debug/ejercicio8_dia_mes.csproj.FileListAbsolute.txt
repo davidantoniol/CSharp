@@ -1,0 +1,14 @@
+C:\Users\adavi\source\repos\ejercicio8_dia_mes\ejercicio8_dia_mes\bin\Debug\ejercicio8_dia_mes.exe.config
+C:\Users\adavi\source\repos\ejercicio8_dia_mes\ejercicio8_dia_mes\bin\Debug\ejercicio8_dia_mes.exe
+C:\Users\adavi\source\repos\ejercicio8_dia_mes\ejercicio8_dia_mes\bin\Debug\ejercicio8_dia_mes.pdb
+C:\Users\adavi\source\repos\ejercicio8_dia_mes\ejercicio8_dia_mes\obj\Debug\ejercicio8_dia_mes.csprojAssemblyReference.cache
+C:\Users\adavi\source\repos\ejercicio8_dia_mes\ejercicio8_dia_mes\obj\Debug\ejercicio8_dia_mes.csproj.CoreCompileInputs.cache
+C:\Users\adavi\source\repos\ejercicio8_dia_mes\ejercicio8_dia_mes\obj\Debug\ejercicio8_dia_mes.exe
+C:\Users\adavi\source\repos\ejercicio8_dia_mes\ejercicio8_dia_mes\obj\Debug\ejercicio8_dia_mes.pdb
+C:\Users\adavi\Desktop\DI\ejercicio8_dia_mes\ejercicio8_dia_mes\bin\Debug\ejercicio8_dia_mes.exe.config
+C:\Users\adavi\Desktop\DI\ejercicio8_dia_mes\ejercicio8_dia_mes\bin\Debug\ejercicio8_dia_mes.exe
+C:\Users\adavi\Desktop\DI\ejercicio8_dia_mes\ejercicio8_dia_mes\bin\Debug\ejercicio8_dia_mes.pdb
+C:\Users\adavi\Desktop\DI\ejercicio8_dia_mes\ejercicio8_dia_mes\obj\Debug\ejercicio8_dia_mes.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\DI\ejercicio8_dia_mes\ejercicio8_dia_mes\obj\Debug\ejercicio8_dia_mes.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\DI\ejercicio8_dia_mes\ejercicio8_dia_mes\obj\Debug\ejercicio8_dia_mes.exe
+C:\Users\adavi\Desktop\DI\ejercicio8_dia_mes\ejercicio8_dia_mes\obj\Debug\ejercicio8_dia_mes.pdb
