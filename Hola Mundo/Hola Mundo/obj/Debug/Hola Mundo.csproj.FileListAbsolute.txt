@@ -1,0 +1,7 @@
+C:\Users\adavi\Desktop\DI\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe.config
+C:\Users\adavi\Desktop\DI\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe
+C:\Users\adavi\Desktop\DI\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb
+C:\Users\adavi\Desktop\DI\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\DI\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\DI\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.exe
+C:\Users\adavi\Desktop\DI\Hola Mundo\Hola Mundo\obj\Debug\Hola Mundo.pdb
