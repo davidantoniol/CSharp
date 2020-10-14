@@ -1,0 +1,14 @@
+C:\Users\adavi\Desktop\DI\ejercicio7_ajedrez\ejercicio7_ajedrez\bin\Debug\ejercicio7_ajedrez.exe.config
+C:\Users\adavi\Desktop\DI\ejercicio7_ajedrez\ejercicio7_ajedrez\bin\Debug\ejercicio7_ajedrez.exe
+C:\Users\adavi\Desktop\DI\ejercicio7_ajedrez\ejercicio7_ajedrez\bin\Debug\ejercicio7_ajedrez.pdb
+C:\Users\adavi\Desktop\DI\ejercicio7_ajedrez\ejercicio7_ajedrez\obj\Debug\ejercicio7_ajedrez.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\DI\ejercicio7_ajedrez\ejercicio7_ajedrez\obj\Debug\ejercicio7_ajedrez.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\DI\ejercicio7_ajedrez\ejercicio7_ajedrez\obj\Debug\ejercicio7_ajedrez.exe
+C:\Users\adavi\Desktop\DI\ejercicio7_ajedrez\ejercicio7_ajedrez\obj\Debug\ejercicio7_ajedrez.pdb
+C:\Users\adavi\Desktop\ejercicio7_ajedrez\ejercicio7_ajedrez\bin\Debug\ejercicio7_ajedrez.exe.config
+C:\Users\adavi\Desktop\ejercicio7_ajedrez\ejercicio7_ajedrez\bin\Debug\ejercicio7_ajedrez.exe
+C:\Users\adavi\Desktop\ejercicio7_ajedrez\ejercicio7_ajedrez\bin\Debug\ejercicio7_ajedrez.pdb
+C:\Users\adavi\Desktop\ejercicio7_ajedrez\ejercicio7_ajedrez\obj\Debug\ejercicio7_ajedrez.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\ejercicio7_ajedrez\ejercicio7_ajedrez\obj\Debug\ejercicio7_ajedrez.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\ejercicio7_ajedrez\ejercicio7_ajedrez\obj\Debug\ejercicio7_ajedrez.exe
+C:\Users\adavi\Desktop\ejercicio7_ajedrez\ejercicio7_ajedrez\obj\Debug\ejercicio7_ajedrez.pdb
