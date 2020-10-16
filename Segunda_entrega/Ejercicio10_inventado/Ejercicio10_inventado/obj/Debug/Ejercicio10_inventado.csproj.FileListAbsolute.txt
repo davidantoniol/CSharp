@@ -1,0 +1,7 @@
+C:\Users\adavi\Desktop\DI\Ejercicio10_inventado\Ejercicio10_inventado\bin\Debug\Ejercicio10_inventado.exe.config
+C:\Users\adavi\Desktop\DI\Ejercicio10_inventado\Ejercicio10_inventado\bin\Debug\Ejercicio10_inventado.exe
+C:\Users\adavi\Desktop\DI\Ejercicio10_inventado\Ejercicio10_inventado\bin\Debug\Ejercicio10_inventado.pdb
+C:\Users\adavi\Desktop\DI\Ejercicio10_inventado\Ejercicio10_inventado\obj\Debug\Ejercicio10_inventado.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\DI\Ejercicio10_inventado\Ejercicio10_inventado\obj\Debug\Ejercicio10_inventado.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\DI\Ejercicio10_inventado\Ejercicio10_inventado\obj\Debug\Ejercicio10_inventado.exe
+C:\Users\adavi\Desktop\DI\Ejercicio10_inventado\Ejercicio10_inventado\obj\Debug\Ejercicio10_inventado.pdb

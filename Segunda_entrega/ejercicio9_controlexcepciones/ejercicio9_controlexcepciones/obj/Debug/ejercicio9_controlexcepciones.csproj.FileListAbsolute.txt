@@ -1,0 +1,7 @@
+C:\Users\adavi\Desktop\DI\ejercicio9_controlexcepciones\ejercicio9_controlexcepciones\bin\Debug\ejercicio9_controlexcepciones.exe.config
+C:\Users\adavi\Desktop\DI\ejercicio9_controlexcepciones\ejercicio9_controlexcepciones\bin\Debug\ejercicio9_controlexcepciones.exe
+C:\Users\adavi\Desktop\DI\ejercicio9_controlexcepciones\ejercicio9_controlexcepciones\bin\Debug\ejercicio9_controlexcepciones.pdb
+C:\Users\adavi\Desktop\DI\ejercicio9_controlexcepciones\ejercicio9_controlexcepciones\obj\Debug\ejercicio9_controlexcepciones.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\DI\ejercicio9_controlexcepciones\ejercicio9_controlexcepciones\obj\Debug\ejercicio9_controlexcepciones.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\DI\ejercicio9_controlexcepciones\ejercicio9_controlexcepciones\obj\Debug\ejercicio9_controlexcepciones.exe
+C:\Users\adavi\Desktop\DI\ejercicio9_controlexcepciones\ejercicio9_controlexcepciones\obj\Debug\ejercicio9_controlexcepciones.pdb
