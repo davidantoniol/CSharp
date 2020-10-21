@@ -1,0 +1,10 @@
+C:\Users\adavi\Desktop\DI\ejercicio4_costedeenvio\ejercicio4_costedeenvio\bin\Debug\ejercicio4_costedeenvio.exe.config
+C:\Users\adavi\Desktop\DI\ejercicio4_costedeenvio\ejercicio4_costedeenvio\bin\Debug\ejercicio4_costedeenvio.exe
+C:\Users\adavi\Desktop\DI\ejercicio4_costedeenvio\ejercicio4_costedeenvio\bin\Debug\ejercicio4_costedeenvio.pdb
+C:\Users\adavi\Desktop\DI\ejercicio4_costedeenvio\ejercicio4_costedeenvio\obj\Debug\ejercicio4_costedeenvio.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\DI\ejercicio4_costedeenvio\ejercicio4_costedeenvio\obj\Debug\ejercicio4_costedeenvio.Form1.resources
+C:\Users\adavi\Desktop\DI\ejercicio4_costedeenvio\ejercicio4_costedeenvio\obj\Debug\ejercicio4_costedeenvio.Properties.Resources.resources
+C:\Users\adavi\Desktop\DI\ejercicio4_costedeenvio\ejercicio4_costedeenvio\obj\Debug\ejercicio4_costedeenvio.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\DI\ejercicio4_costedeenvio\ejercicio4_costedeenvio\obj\Debug\ejercicio4_costedeenvio.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\DI\ejercicio4_costedeenvio\ejercicio4_costedeenvio\obj\Debug\ejercicio4_costedeenvio.exe
+C:\Users\adavi\Desktop\DI\ejercicio4_costedeenvio\ejercicio4_costedeenvio\obj\Debug\ejercicio4_costedeenvio.pdb

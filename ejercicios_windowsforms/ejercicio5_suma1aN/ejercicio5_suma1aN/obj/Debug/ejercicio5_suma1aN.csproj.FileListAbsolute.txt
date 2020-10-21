@@ -1,0 +1,10 @@
+C:\Users\adavi\source\repos\ejercicio5_suma1aN\ejercicio5_suma1aN\bin\Debug\ejercicio5_suma1aN.exe.config
+C:\Users\adavi\source\repos\ejercicio5_suma1aN\ejercicio5_suma1aN\bin\Debug\ejercicio5_suma1aN.exe
+C:\Users\adavi\source\repos\ejercicio5_suma1aN\ejercicio5_suma1aN\bin\Debug\ejercicio5_suma1aN.pdb
+C:\Users\adavi\source\repos\ejercicio5_suma1aN\ejercicio5_suma1aN\obj\Debug\ejercicio5_suma1aN.Form1.resources
+C:\Users\adavi\source\repos\ejercicio5_suma1aN\ejercicio5_suma1aN\obj\Debug\ejercicio5_suma1aN.Properties.Resources.resources
+C:\Users\adavi\source\repos\ejercicio5_suma1aN\ejercicio5_suma1aN\obj\Debug\ejercicio5_suma1aN.csproj.GenerateResource.cache
+C:\Users\adavi\source\repos\ejercicio5_suma1aN\ejercicio5_suma1aN\obj\Debug\ejercicio5_suma1aN.csproj.CoreCompileInputs.cache
+C:\Users\adavi\source\repos\ejercicio5_suma1aN\ejercicio5_suma1aN\obj\Debug\ejercicio5_suma1aN.exe
+C:\Users\adavi\source\repos\ejercicio5_suma1aN\ejercicio5_suma1aN\obj\Debug\ejercicio5_suma1aN.pdb
+C:\Users\adavi\source\repos\ejercicio5_suma1aN\ejercicio5_suma1aN\obj\Debug\ejercicio5_suma1aN.csprojAssemblyReference.cache

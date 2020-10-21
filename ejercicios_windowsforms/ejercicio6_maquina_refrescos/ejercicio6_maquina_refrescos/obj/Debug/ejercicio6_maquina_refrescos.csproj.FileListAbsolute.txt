@@ -1,0 +1,10 @@
+C:\Users\adavi\Desktop\DI\ejercicio6_maquina_refrescos\ejercicio6_maquina_refrescos\bin\Debug\ejercicio6_maquina_refrescos.exe.config
+C:\Users\adavi\Desktop\DI\ejercicio6_maquina_refrescos\ejercicio6_maquina_refrescos\bin\Debug\ejercicio6_maquina_refrescos.exe
+C:\Users\adavi\Desktop\DI\ejercicio6_maquina_refrescos\ejercicio6_maquina_refrescos\bin\Debug\ejercicio6_maquina_refrescos.pdb
+C:\Users\adavi\Desktop\DI\ejercicio6_maquina_refrescos\ejercicio6_maquina_refrescos\obj\Debug\ejercicio6_maquina_refrescos.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\DI\ejercicio6_maquina_refrescos\ejercicio6_maquina_refrescos\obj\Debug\ejercicio6_maquina_refrescos.Form1.resources
+C:\Users\adavi\Desktop\DI\ejercicio6_maquina_refrescos\ejercicio6_maquina_refrescos\obj\Debug\ejercicio6_maquina_refrescos.Properties.Resources.resources
+C:\Users\adavi\Desktop\DI\ejercicio6_maquina_refrescos\ejercicio6_maquina_refrescos\obj\Debug\ejercicio6_maquina_refrescos.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\DI\ejercicio6_maquina_refrescos\ejercicio6_maquina_refrescos\obj\Debug\ejercicio6_maquina_refrescos.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\DI\ejercicio6_maquina_refrescos\ejercicio6_maquina_refrescos\obj\Debug\ejercicio6_maquina_refrescos.exe
+C:\Users\adavi\Desktop\DI\ejercicio6_maquina_refrescos\ejercicio6_maquina_refrescos\obj\Debug\ejercicio6_maquina_refrescos.pdb

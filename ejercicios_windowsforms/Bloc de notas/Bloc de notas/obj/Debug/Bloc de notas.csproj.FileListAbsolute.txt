@@ -1,0 +1,20 @@
+C:\Users\adavi\Desktop\Bloc de notas\Bloc de notas\bin\Debug\Bloc de notas.exe.config
+C:\Users\adavi\Desktop\Bloc de notas\Bloc de notas\bin\Debug\Bloc de notas.exe
+C:\Users\adavi\Desktop\Bloc de notas\Bloc de notas\bin\Debug\Bloc de notas.pdb
+C:\Users\adavi\Desktop\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\Bloc de notas\Bloc de notas\obj\Debug\Bloc_de_notas.Form1.resources
+C:\Users\adavi\Desktop\Bloc de notas\Bloc de notas\obj\Debug\Bloc_de_notas.Properties.Resources.resources
+C:\Users\adavi\Desktop\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.exe
+C:\Users\adavi\Desktop\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.pdb
+C:\Users\adavi\Desktop\DI\Bloc de notas\Bloc de notas\bin\Debug\Bloc de notas.exe.config
+C:\Users\adavi\Desktop\DI\Bloc de notas\Bloc de notas\bin\Debug\Bloc de notas.exe
+C:\Users\adavi\Desktop\DI\Bloc de notas\Bloc de notas\bin\Debug\Bloc de notas.pdb
+C:\Users\adavi\Desktop\DI\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\DI\Bloc de notas\Bloc de notas\obj\Debug\Bloc_de_notas.Form1.resources
+C:\Users\adavi\Desktop\DI\Bloc de notas\Bloc de notas\obj\Debug\Bloc_de_notas.Properties.Resources.resources
+C:\Users\adavi\Desktop\DI\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\DI\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\DI\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.exe
+C:\Users\adavi\Desktop\DI\Bloc de notas\Bloc de notas\obj\Debug\Bloc de notas.pdb

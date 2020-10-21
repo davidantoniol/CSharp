@@ -1,0 +1,10 @@
+C:\Users\adavi\Desktop\DI\ejercicio2_sumar\ejercicio2_sumar\bin\Debug\ejercicio2_sumar.exe.config
+C:\Users\adavi\Desktop\DI\ejercicio2_sumar\ejercicio2_sumar\bin\Debug\ejercicio2_sumar.exe
+C:\Users\adavi\Desktop\DI\ejercicio2_sumar\ejercicio2_sumar\bin\Debug\ejercicio2_sumar.pdb
+C:\Users\adavi\Desktop\DI\ejercicio2_sumar\ejercicio2_sumar\obj\Debug\ejercicio2_sumar.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\DI\ejercicio2_sumar\ejercicio2_sumar\obj\Debug\ejercicio2_sumar.Form1.resources
+C:\Users\adavi\Desktop\DI\ejercicio2_sumar\ejercicio2_sumar\obj\Debug\ejercicio2_sumar.Properties.Resources.resources
+C:\Users\adavi\Desktop\DI\ejercicio2_sumar\ejercicio2_sumar\obj\Debug\ejercicio2_sumar.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\DI\ejercicio2_sumar\ejercicio2_sumar\obj\Debug\ejercicio2_sumar.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\DI\ejercicio2_sumar\ejercicio2_sumar\obj\Debug\ejercicio2_sumar.exe
+C:\Users\adavi\Desktop\DI\ejercicio2_sumar\ejercicio2_sumar\obj\Debug\ejercicio2_sumar.pdb
