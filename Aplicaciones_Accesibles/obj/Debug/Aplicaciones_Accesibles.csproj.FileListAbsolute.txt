@@ -1,0 +1,10 @@
+C:\Users\adavi\Desktop\2ºDAM\DI\Aplicaciones_Accesibles\obj\Debug\Aplicaciones_Accesibles.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\2ºDAM\DI\Aplicaciones_Accesibles\obj\Debug\Aplicaciones_Accesibles.Form1.resources
+C:\Users\adavi\Desktop\2ºDAM\DI\Aplicaciones_Accesibles\obj\Debug\Aplicaciones_Accesibles.Properties.Resources.resources
+C:\Users\adavi\Desktop\2ºDAM\DI\Aplicaciones_Accesibles\obj\Debug\Aplicaciones_Accesibles.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\2ºDAM\DI\Aplicaciones_Accesibles\obj\Debug\Aplicaciones_Accesibles.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\2ºDAM\DI\Aplicaciones_Accesibles\bin\Debug\Aplicaciones_Accesibles.exe.config
+C:\Users\adavi\Desktop\2ºDAM\DI\Aplicaciones_Accesibles\bin\Debug\Aplicaciones_Accesibles.exe
+C:\Users\adavi\Desktop\2ºDAM\DI\Aplicaciones_Accesibles\bin\Debug\Aplicaciones_Accesibles.pdb
+C:\Users\adavi\Desktop\2ºDAM\DI\Aplicaciones_Accesibles\obj\Debug\Aplicaciones_Accesibles.exe
+C:\Users\adavi\Desktop\2ºDAM\DI\Aplicaciones_Accesibles\obj\Debug\Aplicaciones_Accesibles.pdb
