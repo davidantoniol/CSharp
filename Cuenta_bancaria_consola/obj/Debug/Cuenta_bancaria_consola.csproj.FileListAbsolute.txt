@@ -1,0 +1,14 @@
+C:\Users\adavi\Desktop\DI\Cuenta_bancaria_consola\obj\Debug\Cuenta_bancaria_consola.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\DI\Cuenta_bancaria_consola\obj\Debug\Cuenta_bancaria_consola.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\DI\Cuenta_bancaria_consola\bin\Debug\Cuenta_bancaria_consola.exe.config
+C:\Users\adavi\Desktop\DI\Cuenta_bancaria_consola\bin\Debug\Cuenta_bancaria_consola.exe
+C:\Users\adavi\Desktop\DI\Cuenta_bancaria_consola\bin\Debug\Cuenta_bancaria_consola.pdb
+C:\Users\adavi\Desktop\DI\Cuenta_bancaria_consola\obj\Debug\Cuenta_bancaria_consola.exe
+C:\Users\adavi\Desktop\DI\Cuenta_bancaria_consola\obj\Debug\Cuenta_bancaria_consola.pdb
+C:\Users\adavi\Desktop\2ºDAM\DI\Cuenta_bancaria_consola\obj\Debug\Cuenta_bancaria_consola.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\2ºDAM\DI\Cuenta_bancaria_consola\obj\Debug\Cuenta_bancaria_consola.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\2ºDAM\DI\Cuenta_bancaria_consola\obj\Debug\Cuenta_bancaria_consola.exe
+C:\Users\adavi\Desktop\2ºDAM\DI\Cuenta_bancaria_consola\obj\Debug\Cuenta_bancaria_consola.pdb
+C:\Users\adavi\Desktop\2ºDAM\DI\Cuenta_bancaria_consola\bin\Debug\Cuenta_bancaria_consola.exe.config
+C:\Users\adavi\Desktop\2ºDAM\DI\Cuenta_bancaria_consola\bin\Debug\Cuenta_bancaria_consola.exe
+C:\Users\adavi\Desktop\2ºDAM\DI\Cuenta_bancaria_consola\bin\Debug\Cuenta_bancaria_consola.pdb
