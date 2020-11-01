@@ -1,0 +1,11 @@
+C:\Users\adavi\Desktop\ejercicio_diseno_mejorado\bin\Debug\ejercicio_diseno_mejorado.exe.config
+C:\Users\adavi\Desktop\ejercicio_diseno_mejorado\bin\Debug\ejercicio_diseno_mejorado.exe
+C:\Users\adavi\Desktop\ejercicio_diseno_mejorado\bin\Debug\ejercicio_diseno_mejorado.pdb
+C:\Users\adavi\Desktop\ejercicio_diseno_mejorado\obj\Debug\ejercicio_diseno_mejorado.Form1.resources
+C:\Users\adavi\Desktop\ejercicio_diseno_mejorado\obj\Debug\ejercicio_diseno_mejorado.Properties.Resources.resources
+C:\Users\adavi\Desktop\ejercicio_diseno_mejorado\obj\Debug\ejercicio_diseno_mejorado.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\ejercicio_diseno_mejorado\obj\Debug\ejercicio_diseno_mejorado.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\ejercicio_diseno_mejorado\obj\Debug\ejercicio_diseno_mejorado.exe
+C:\Users\adavi\Desktop\ejercicio_diseno_mejorado\obj\Debug\ejercicio_diseno_mejorado.pdb
+C:\Users\adavi\Desktop\ejercicio_diseno_mejorado\obj\Debug\ejercicio_diseno_mejorado.Firts.resources
+C:\Users\adavi\Desktop\ejercicio_diseno_mejorado\obj\Debug\ejercicio_diseno_mejorado.Second.resources
