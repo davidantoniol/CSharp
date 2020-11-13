@@ -1,0 +1,11 @@
+C:\Users\adavi\Desktop\conexion_origen_datos_MSAccess\bin\Debug\Tlfn.mdb
+C:\Users\adavi\Desktop\conexion_origen_datos_MSAccess\bin\Debug\conexion_origen_datos_MSAccess.exe.config
+C:\Users\adavi\Desktop\conexion_origen_datos_MSAccess\bin\Debug\conexion_origen_datos_MSAccess.exe
+C:\Users\adavi\Desktop\conexion_origen_datos_MSAccess\bin\Debug\conexion_origen_datos_MSAccess.pdb
+C:\Users\adavi\Desktop\conexion_origen_datos_MSAccess\obj\Debug\conexion_origen_datos_MSAccess.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\conexion_origen_datos_MSAccess\obj\Debug\conexion_origen_datos_MSAccess.Form1.resources
+C:\Users\adavi\Desktop\conexion_origen_datos_MSAccess\obj\Debug\conexion_origen_datos_MSAccess.Properties.Resources.resources
+C:\Users\adavi\Desktop\conexion_origen_datos_MSAccess\obj\Debug\conexion_origen_datos_MSAccess.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\conexion_origen_datos_MSAccess\obj\Debug\conexion_origen_datos_MSAccess.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\conexion_origen_datos_MSAccess\obj\Debug\conexion_origen_datos_MSAccess.exe
+C:\Users\adavi\Desktop\conexion_origen_datos_MSAccess\obj\Debug\conexion_origen_datos_MSAccess.pdb
