@@ -1,0 +1,8 @@
+C:\Users\adavi\Desktop\componente_personalizado\componente_personalizado\bin\Debug\componente_personalizado.dll
+C:\Users\adavi\Desktop\componente_personalizado\componente_personalizado\bin\Debug\componente_personalizado.pdb
+C:\Users\adavi\Desktop\componente_personalizado\componente_personalizado\obj\Debug\componente_personalizado.Properties.Resources.resources
+C:\Users\adavi\Desktop\componente_personalizado\componente_personalizado\obj\Debug\componente_personalizado.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\componente_personalizado\componente_personalizado\obj\Debug\componente_personalizado.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\componente_personalizado\componente_personalizado\obj\Debug\componente_personalizado.dll
+C:\Users\adavi\Desktop\componente_personalizado\componente_personalizado\obj\Debug\componente_personalizado.pdb
+C:\Users\adavi\Desktop\componente_personalizado\componente_personalizado\obj\Debug\componente_personalizado.control_asiento.resources
