@@ -1,0 +1,10 @@
+C:\Users\adavi\Desktop\menu_contextual\menu_contextual\bin\Debug\menu_contextual.exe.config
+C:\Users\adavi\Desktop\menu_contextual\menu_contextual\bin\Debug\menu_contextual.exe
+C:\Users\adavi\Desktop\menu_contextual\menu_contextual\bin\Debug\menu_contextual.pdb
+C:\Users\adavi\Desktop\menu_contextual\menu_contextual\obj\Debug\menu_contextual.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\menu_contextual\menu_contextual\obj\Debug\menu_contextual.Form1.resources
+C:\Users\adavi\Desktop\menu_contextual\menu_contextual\obj\Debug\menu_contextual.Properties.Resources.resources
+C:\Users\adavi\Desktop\menu_contextual\menu_contextual\obj\Debug\menu_contextual.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\menu_contextual\menu_contextual\obj\Debug\menu_contextual.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\menu_contextual\menu_contextual\obj\Debug\menu_contextual.exe
+C:\Users\adavi\Desktop\menu_contextual\menu_contextual\obj\Debug\menu_contextual.pdb
