@@ -1,0 +1,10 @@
+C:\Users\adavi\Desktop\otros_menus_ADLR\otros_menus_ADLR\bin\Debug\otros_menus_ADLR.exe.config
+C:\Users\adavi\Desktop\otros_menus_ADLR\otros_menus_ADLR\bin\Debug\otros_menus_ADLR.exe
+C:\Users\adavi\Desktop\otros_menus_ADLR\otros_menus_ADLR\bin\Debug\otros_menus_ADLR.pdb
+C:\Users\adavi\Desktop\otros_menus_ADLR\otros_menus_ADLR\obj\Debug\otros_menus_ADLR.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\otros_menus_ADLR\otros_menus_ADLR\obj\Debug\otros_menus_ADLR.Form1.resources
+C:\Users\adavi\Desktop\otros_menus_ADLR\otros_menus_ADLR\obj\Debug\otros_menus_ADLR.Properties.Resources.resources
+C:\Users\adavi\Desktop\otros_menus_ADLR\otros_menus_ADLR\obj\Debug\otros_menus_ADLR.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\otros_menus_ADLR\otros_menus_ADLR\obj\Debug\otros_menus_ADLR.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\otros_menus_ADLR\otros_menus_ADLR\obj\Debug\otros_menus_ADLR.exe
+C:\Users\adavi\Desktop\otros_menus_ADLR\otros_menus_ADLR\obj\Debug\otros_menus_ADLR.pdb
