@@ -1,0 +1,10 @@
+C:\Users\adavi\Desktop\Ayuda_manual\Ayuda_manual\bin\Debug\Ayuda_manual.exe.config
+C:\Users\adavi\Desktop\Ayuda_manual\Ayuda_manual\bin\Debug\Ayuda_manual.exe
+C:\Users\adavi\Desktop\Ayuda_manual\Ayuda_manual\bin\Debug\Ayuda_manual.pdb
+C:\Users\adavi\Desktop\Ayuda_manual\Ayuda_manual\obj\Debug\Ayuda_manual.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\Ayuda_manual\Ayuda_manual\obj\Debug\Ayuda_manual.Form1.resources
+C:\Users\adavi\Desktop\Ayuda_manual\Ayuda_manual\obj\Debug\Ayuda_manual.Properties.Resources.resources
+C:\Users\adavi\Desktop\Ayuda_manual\Ayuda_manual\obj\Debug\Ayuda_manual.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\Ayuda_manual\Ayuda_manual\obj\Debug\Ayuda_manual.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\Ayuda_manual\Ayuda_manual\obj\Debug\Ayuda_manual.exe
+C:\Users\adavi\Desktop\Ayuda_manual\Ayuda_manual\obj\Debug\Ayuda_manual.pdb
