@@ -1,0 +1,8 @@
+C:\Users\adavi\Desktop\BotonSakir\bin\Debug\BotonSakir.dll
+C:\Users\adavi\Desktop\BotonSakir\bin\Debug\BotonSakir.pdb
+C:\Users\adavi\Desktop\BotonSakir\obj\Debug\BotonSakir.Properties.Resources.resources
+C:\Users\adavi\Desktop\BotonSakir\obj\Debug\BotonSakir.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\BotonSakir\obj\Debug\BotonSakir.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\BotonSakir\obj\Debug\BotonSakir.dll
+C:\Users\adavi\Desktop\BotonSakir\obj\Debug\BotonSakir.pdb
+C:\Users\adavi\Desktop\BotonSakir\obj\Debug\BotonSakir.ButtonSalir.resources
