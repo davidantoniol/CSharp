@@ -1,0 +1,10 @@
+C:\Users\adavi\Desktop\AyudaContextualHelpProvider\AyudaContextualHelpProvider\bin\Debug\AyudaContextualHelpProvider.exe.config
+C:\Users\adavi\Desktop\AyudaContextualHelpProvider\AyudaContextualHelpProvider\bin\Debug\AyudaContextualHelpProvider.exe
+C:\Users\adavi\Desktop\AyudaContextualHelpProvider\AyudaContextualHelpProvider\bin\Debug\AyudaContextualHelpProvider.pdb
+C:\Users\adavi\Desktop\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.Form1.resources
+C:\Users\adavi\Desktop\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.Properties.Resources.resources
+C:\Users\adavi\Desktop\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.exe
+C:\Users\adavi\Desktop\AyudaContextualHelpProvider\AyudaContextualHelpProvider\obj\Debug\AyudaContextualHelpProvider.pdb
