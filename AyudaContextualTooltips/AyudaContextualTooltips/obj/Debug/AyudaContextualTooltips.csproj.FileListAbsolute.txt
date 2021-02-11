@@ -1,0 +1,10 @@
+C:\Users\adavi\Desktop\AyudaContextualTooltips\AyudaContextualTooltips\bin\Debug\AyudaContextualTooltips.exe.config
+C:\Users\adavi\Desktop\AyudaContextualTooltips\AyudaContextualTooltips\bin\Debug\AyudaContextualTooltips.exe
+C:\Users\adavi\Desktop\AyudaContextualTooltips\AyudaContextualTooltips\bin\Debug\AyudaContextualTooltips.pdb
+C:\Users\adavi\Desktop\AyudaContextualTooltips\AyudaContextualTooltips\obj\Debug\AyudaContextualTooltips.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\AyudaContextualTooltips\AyudaContextualTooltips\obj\Debug\AyudaContextualTooltips.Form1.resources
+C:\Users\adavi\Desktop\AyudaContextualTooltips\AyudaContextualTooltips\obj\Debug\AyudaContextualTooltips.Properties.Resources.resources
+C:\Users\adavi\Desktop\AyudaContextualTooltips\AyudaContextualTooltips\obj\Debug\AyudaContextualTooltips.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\AyudaContextualTooltips\AyudaContextualTooltips\obj\Debug\AyudaContextualTooltips.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\AyudaContextualTooltips\AyudaContextualTooltips\obj\Debug\AyudaContextualTooltips.exe
+C:\Users\adavi\Desktop\AyudaContextualTooltips\AyudaContextualTooltips\obj\Debug\AyudaContextualTooltips.pdb
