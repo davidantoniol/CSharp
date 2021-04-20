@@ -1,0 +1,15 @@
+C:\Users\adavi\Desktop\conversorGrados\bin\Debug\conversorGrados.exe.config
+C:\Users\adavi\Desktop\conversorGrados\bin\Debug\conversorGrados.exe
+C:\Users\adavi\Desktop\conversorGrados\bin\Debug\conversorGrados.pdb
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\conversorGrados.csprojAssemblyReference.cache
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\MainWindow.g.cs
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\App.g.cs
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\conversorGrados_MarkupCompile.cache
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\conversorGrados_MarkupCompile.lref
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\MainWindow.baml
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\conversorGrados.g.resources
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\conversorGrados.Properties.Resources.resources
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\conversorGrados.csproj.GenerateResource.cache
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\conversorGrados.csproj.CoreCompileInputs.cache
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\conversorGrados.exe
+C:\Users\adavi\Desktop\conversorGrados\obj\Debug\conversorGrados.pdb
